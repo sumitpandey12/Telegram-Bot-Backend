@@ -1,0 +1,11 @@
+//commands
+
+start - get start
+set_city - set your city
+weather - get instant update
+unsubscribe - unsubscribe weather update
+
+
+//Task
+
+1. 
